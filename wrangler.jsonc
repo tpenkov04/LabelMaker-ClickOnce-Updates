@@ -1,0 +1,8 @@
+{
+  "name": "clickonce-proxy",
+  "main": "src/index.js",
+  "compatibility_date": "2025-09-24",
+  "vars": {
+    "UPSTREAM_BASE": "https://raw.githubusercontent.com/OWNER/REPO/BRANCH/main"
+  }
+}
