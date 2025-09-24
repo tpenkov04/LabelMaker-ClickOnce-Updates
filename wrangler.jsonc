@@ -1,5 +1,5 @@
 {
-  "name": "clickonce-proxy",
+  "name": "labelmaker",
   "main": "src/index.js",
   "compatibility_date": "2025-09-24",
   "vars": {
